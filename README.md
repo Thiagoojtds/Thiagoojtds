@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <div >
   <a href="https://github.com/Thiagoojtds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagoojtds&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thiagoojtds&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)]
+    (https://git.io/streak-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
