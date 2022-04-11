@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 - 📖 I'm studying Technologist Analysis and System development at Uniopet.
 
 <div style="display: inline_block">
-<div align ="left">
+<div align ="center">
   <a href="https://github.com/Thiagoojtds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagoojtds&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>   
 </div><!--
 -->
-<div align ="right"> 
+<div align ="center"> 
     
     
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thiagoojtds&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
