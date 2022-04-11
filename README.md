@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I just started working as a Programmer Analyst.
-- 🌱 I'm studying Technologist Analysis and System development at Uniopet. Just started learning Java language and OOP and getting into Python's world.
+- 💻 I just started working as a Programmer Analyst.
+- 📖 I'm studying Technologist Analysis and System development at Uniopet. Just started learning Java language and OOP and getting into Python's world.
 - Have already seemed C Linguage and HTML+CSS
 <div >
   <a href="https://github.com/Thiagoojtds">
