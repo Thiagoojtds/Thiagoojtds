@@ -14,5 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I just started learning Java and OOP, i'm getting into te world of Python. I'm studying Technologist Analysis and System development at Uniopet.
+
+- 🔭 I just started working as a Programmer Analyst.
+- 🌱 I'm studying Technologist Analysis and System development at Uniopet. Just started learning Java language and OOP and getting into Python's world.
+- Have already seemed C Linguage and HTML+CSS
+<div align="center">
+  <a href="https://github.com/Thiagoojtds">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 
