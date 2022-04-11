@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻 I just started working as a Programmer Analyst.
-- 📖 I'm studying Technologist Analysis and System development at Uniopet. Just started learning Java language and OOP and getting into Python's world.
-- Have already seemed C Linguage and HTML+CSS
+- 📖 I'm studying Technologist Analysis and System development at Uniopet.
 <div >
   <a href="https://github.com/Thiagoojtds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagoojtds&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -28,6 +27,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Thiago-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt-"Thiago-bootstrap"height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
 </div>
 
   ##
