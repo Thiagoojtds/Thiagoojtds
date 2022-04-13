@@ -1,5 +1,14 @@
 
-### Hello, welcome to my dev profile <img height="30" src= https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966 >
+<head>
+  <h2 align="center">Hello, welcome to my profile
+  <img height="30" src= https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966 >
+  </h2>
+
+  <p align="center">
+- 💻 I just started working as a Programmer Analyst.<br>
+- 📖 I'm studying Technologist Analysis and System development at Uniopet.
+  </p>
+  </head>
 
 <!--
 **Thiagoojtds/Thiagoojtds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 💻 I just started working as a Programmer Analyst.
-- 📖 I'm studying Technologist Analysis and System development at Uniopet.
-
   
  ## 👨🏻‍💻 Github Stats
 
@@ -32,9 +37,7 @@ Here are some ideas to get you started:
  <div align="center">
         
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thiagoojtds&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-    
 
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -43,8 +46,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Thiago-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt-"Thiago-bootstrap"height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt-"Thiago-git"height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <class align="center" alt-"Thiago-sql" height="25" width="40" src="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server" />
-          
+  <class align="center" alt-"Thiago-sql" height="25" width="40" src="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server" />        
 </div>
 
   ##
