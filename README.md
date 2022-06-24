@@ -46,7 +46,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Thiago-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt-"Thiago-bootstrap"height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt-"Thiago-git"height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <class align="center" alt-"Thiago-sql" height="25" width="40" src="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server" />        
+  <class align="center" alt-"Thiago-sql" height="25" width="40" src="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server" />
+  <class align="center" alt-"Thiago-JS" height="25" width="40" src"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>
 
   ##
