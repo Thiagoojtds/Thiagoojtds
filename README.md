@@ -5,7 +5,7 @@
   </h2>
 
   <p align="center">
-- 💻 I just started working as a Programmer Analyst.<br>
+- 💻 I just started working as Software developer.<br>
 - 📖 I'm studying Technologist Analysis and System development at Uniopet.
   </p>
   </head>
