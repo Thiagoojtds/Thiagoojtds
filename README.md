@@ -42,7 +42,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thiagoojtds&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
     
-[![](https://visitcount.itsvg.in/api?id=thiagoojtds&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=thiagoojtds&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
 
