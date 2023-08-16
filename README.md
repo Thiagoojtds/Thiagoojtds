@@ -4,7 +4,7 @@
    <h2 align="left">Hey, I'm Thiago
   <img height="30" src= https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966 >
   </h2>
-  <img align="right" src="https://api.daily.dev/devcards/7499eed53b9b4dd18a2d3a9700a7cd1c.png?r=t52" width="360"/>
+  <img align="right" src="https://github.com/Thiagoojtds/Thiagoojtds/blob/master/devcard.svg" width="360"/>
 
    💻 Currently I'm working at <a href="https://webhelp.com/pt-br/">WebHelp Brasil</a> company as a Full-Stack Junior Developer.<br>
    🌱 I'm getting more into the world of React JS to improve my front-end skills.<br>
