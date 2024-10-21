@@ -7,7 +7,7 @@
   <img align="right" src="https://github.com/Thiagoojtds/Thiagoojtds/blob/main/devcard.svg" width="360"/>
 
    💻 Currently I'm working at <a href="https://webhelp.com/pt-br/](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjYyZyltI6GAxUtp4MHHWJrAA0YABAAGgJlZg&ase=2&gclid=CjwKCAjwl4yyBhAgEiwADSEjeAfNnfXP--2wM_oOA8CURIpgWDQWWJlUXPgp0l6vCklZw8Wi5LO2RxoCZWcQAvD_BwE&ei=3AJEZuPpBqTN1sQPspaY2AU&ohost=www.google.com&cid=CAESVeD2ijExY9KiUQUvJjG-Y_U01APMExnkhKrJVsyMe-n51CvLo1uf1lONJX6Tt-eVm9uTJsrikHCUumrFoC21NnShj7bGiL_9eZZdQEk6LDBsX_HepHQ&sig=AOD64_2MMsz4tjjhGqNBH_RCZxrLh7OeeA&q&sqi=2&nis=4&adurl&ved=2ahUKEwjjx4yltI6GAxWkppUCHTILBlsQ0Qx6BAgNEAE)">Concentrix Brasil</a> company as a Full-Stack Junior Developer.<br>
-   🌱 I'm developing an application kind of LinkedIn.<br>
+   🌱 I'm developing an application to analyse job offers from Linkedin with some friends.<br>
    🎓 I've just finished my graduation on Analysis and System development.<br>
 
 
