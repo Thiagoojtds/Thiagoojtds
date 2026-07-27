@@ -47,15 +47,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
  <br> <br>
-
-<h2>📊 Github Stats </h2>
    
-<div>
-  <a href="https://github.com/Thiagoojtds">
-    
- 
-|<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagoojtds&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>  | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoojtds&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>|   
-| ------------- | ------------- |
-</div>
 
 [![](https://visitcount.itsvg.in/api?id=thiagoojtds&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
